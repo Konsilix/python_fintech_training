@@ -1,0 +1,11 @@
+#
+# .gitignore
+#
+*.log
+
+# Vagrant
+.vagrant
+
+# Python
+*.pyc
+
